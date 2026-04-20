@@ -1,0 +1,7 @@
+path: D:/proyecto/data
+train: D:\proyecto\data\train\
+val: D:\proyecto\data\val\
+test:
+
+names:
+    0: mause
